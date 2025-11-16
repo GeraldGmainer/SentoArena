@@ -1,0 +1,97 @@
+fileFormatVersion: 2
+guid: 3c9ebdadb76364346ba7470ecd5e828e
+timeCreated: 1459708387
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: panel_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 796, y: 119, z: 381, w: 383}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: panel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 1374
+        height: 1367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 796, y: 113, z: 383, w: 378}
+      outline:
+      - - {x: 686, y: 657.5}
+        - {x: 684, y: 659.5}
+        - {x: 110, y: 659.5}
+        - {x: 109, y: 662.5}
+        - {x: 64, y: 662.5}
+        - {x: 44, y: 682.5}
+        - {x: 44, y: 683.5}
+        - {x: -10, y: 683.5}
+        - {x: -11, y: 682.5}
+        - {x: -623, y: 682.5}
+        - {x: -624, y: 683.5}
+        - {x: -687, y: 683.5}
+        - {x: -687, y: 379.5}
+        - {x: -663, y: 355.5}
+        - {x: -663, y: 307.5}
+        - {x: -662, y: 305.5}
+        - {x: -660, y: 304.5}
+        - {x: -660, y: -576.5}
+        - {x: -663, y: -578.5}
+        - {x: -663, y: -638.5}
+        - {x: -618, y: -683.5}
+        - {x: 687, y: -683.5}
+        - {x: 687, y: -616.5}
+        - {x: 686, y: -615.5}
+    outline:
+    - - {x: 687, y: 1369}
+      - {x: 1374, y: 684.5}
+      - {x: 686.99994, y: 0}
+      - {x: 0, y: 684.5}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

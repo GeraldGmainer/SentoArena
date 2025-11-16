@@ -1,0 +1,3 @@
+﻿public enum SettingsEnum  {
+    NONE, MOUSE_SENSITIVITY, PLAYER_NAME, WEAPON, MAP, MAX_PLAYER, SERVER_NAME, PORT
+}
