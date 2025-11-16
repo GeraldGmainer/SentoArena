@@ -1,0 +1,2 @@
+_empty.blend animation always in excactly 1 folder
+(linked libraries)

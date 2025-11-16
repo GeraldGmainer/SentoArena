@@ -1,0 +1,79 @@
+# Written by MakeHuman 1.0.2
+version v1.0.2
+tags Makehuman
+face r-cheek-bones-in-out -0.322000
+face nose-width1-min-max -0.096000
+face nose-scale-vert-incr-decr -0.048000
+face mouth-lowerlip-height-min-max -0.468000
+face head-diamond 0.266000
+face nose-width2-min-max -0.354000
+face chin-bones-in-out -1.000000
+face nose-scale-horiz-incr-decr 0.694000
+face chin-prominent-less-more -0.178000
+face mouth-scale-vert-incr-decr 0.726000
+face l-cheek-bones-in-out -0.322000
+face mouth-scale-depth-incr-decr 0.564000
+face mouth-scale-horiz-incr-decr 0.854000
+face nose-nostril-width-min-max -0.210000
+face chin-height-min-max -0.096000
+face chin-width-min-max -0.500000
+face nose-width3-min-max -0.290000
+torso bulge-decr-incr -0.146000
+torso buttocks-volume-decr-incr 0.580000
+torso hip-scale-horiz-decr-incr -0.322000
+torso torso-scale-depth-decr-incr 0.080000
+torso torso-scale-horiz-decr-incr -0.388000
+torso hip-scale-depth-decr-incr -0.162000
+torso stomach-pregnant-decr-incr -0.226000
+torso torso-scale-vert-decr-incr -0.048000
+torso pelvis-tone-decr-incr 0.048000
+torso stomach-tone-decr-incr 0.080000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 8ed08ea6-e3ad-4d36-b8e7-c4e3836e66b7
+hair fhair01 c4808d0d-bbbc-4e62-82a1-8610b06d0e05
+eyelashes Eyelashes01 d533836f-13ad-4836-8b65-051108253cd2
+eyebrows Eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+clothes shoes02 8887caca-d6fb-4d73-af10-1d4fb740a936
+clothes jeans01 faa58a00-05db-4a53-a3a6-72af1cec2053
+clothes Tshirt01 ea986be3-a9df-48e9-9f73-80a02ec1db61
+clothesHideFaces True
+armslegs l-upperleg-scale-horiz-decr-incr -0.210000
+armslegs r-upperarm-scale-depth-decr-incr -0.322000
+armslegs l-upperarm-scale-depth-decr-incr -0.322000
+armslegs l-lowerleg-scale-horiz-decr-incr -0.500000
+armslegs r-lowerleg-scale-horiz-decr-incr -0.500000
+armslegs r-upperleg-scale-horiz-decr-incr -0.210000
+armslegs r-lowerarm-scale-depth-decr-incr -0.146000
+armslegs l-lowerarm-scale-depth-decr-incr -0.146000
+gendered breast-dist-min-max 0.032000
+gendered breast-trans-vert-down-up 0.226000
+gendered BreastFirmness 0.645000
+gendered BreastSize 0.798000
+gendered breast-point-min-max -0.194000
+gendered breast-volume-vert-up-down 0.178000
+macro Weight 0.645000
+macro Gender 0.000000
+macro Age 0.500000
+macro Height 0.605000
+macro Asian 0.500000
+macro African 0.000000
+macro Caucasian 0.500000
+macro Muscle 0.685000
+macro BodyProportions 0.524000
+measure bust -0.226000
+measure napetowaist -0.016000
+measure hips -0.662000
+measure shoulder -0.354000
+measure frontchest 0.194000
+measure underbust -0.048000
+measure waisttohip -0.162000
+measure waist -0.194000
+measure thighcirc 0.112000
+measure upperlegheight -0.032000
+background enabled False
+skinMaterial skins/young_asian_female/young_asian_female.mhmat
+material fhair01 c4808d0d-bbbc-4e62-82a1-8610b06d0e05 hair/fhair01/materials/fhair01_black.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/blue.mhmat
+skeleton basic.json
+subdivide False
